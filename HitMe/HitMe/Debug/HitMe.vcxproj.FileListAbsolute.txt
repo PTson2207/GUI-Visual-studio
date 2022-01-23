@@ -1,0 +1,3 @@
+C:\Users\hp\Desktop\HitMe\HitMe\HitMe\Debug\HitMe.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\HitMe\HitMe\HitMe\Debug\HitMe.MyForm.resources
+C:\Users\hp\Desktop\HitMe\HitMe\HitMe\Debug\HitMe.vcxproj.GenerateResource.cache
